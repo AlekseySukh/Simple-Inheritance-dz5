@@ -1,0 +1,1 @@
+# Simple-Inheritance-dz5
